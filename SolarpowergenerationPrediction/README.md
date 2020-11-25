@@ -1,7 +1,7 @@
 
 This is a demonstration of the end to end workflow of building the model and deploying it. I have chosen ‘heart failure prediction’ dataset from kaggle for this purpose.
 
-Solar power prediction dataset available from [here](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)
+Solar power prediction dataset available from [here](https://www.kaggle.com/anikannal/solar-power-generation-data)
 
 ### File Details
 
